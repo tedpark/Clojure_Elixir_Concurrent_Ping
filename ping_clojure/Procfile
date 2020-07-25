@@ -1,0 +1,1 @@
+web: java -Dclojure.main.report=stderr -cp target/uberjar/ping_clojure.jar clojure.main -m ping-clojure.core
