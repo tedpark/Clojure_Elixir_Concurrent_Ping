@@ -116,7 +116,7 @@ will Return
 ]
 ```
 
-### Usage Elixir
+### Usage Clojure
 
 To start your Clojure server:
 
